@@ -2107,7 +2107,7 @@
                     },
                     "ReevaluateFormula": "Reevaluar todos los turnos?",
                     "Type": {
-                        "counter": "Encimera",
+                        "counter": "Counter",
                         "formula": "Fórmula",
                         "value": "Valor fijo"
                     }
@@ -3456,8 +3456,8 @@
         "SidebarAppearanceLabel": "Apariencia",
         "Size": "Tamaño",
         "SizeLabel": "Tamaño",
-        "SkillAcr": "Acrobacia",
-        "SkillAcrobatics": "Acrobacia",
+        "SkillAcr": "Acrobacias",
+        "SkillAcrobatics": "Acrobacias",
         "SkillArc": "Arcanos",
         "SkillArcana": "Arcanos",
         "SkillAth": "Atletismo",
@@ -3671,7 +3671,7 @@
         "TabFeatsLabel": "Dotes",
         "TabInventoryLabel": "Inventario",
         "TabManageTabsLabel": "Administrar pestañas",
-        "TabPathfinderSociety": "Sociedad de conquistadores",
+        "TabPathfinderSociety": "Sociedad Pathfinder",
         "TabSkillsLabel": "Competencias",
         "TabSpellbookLabel": "Lanzamiento de conjuros",
         "TempHitPointsShortLabel": "PG temporal",
